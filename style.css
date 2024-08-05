@@ -1,0 +1,7 @@
+.head-kids__app {
+  height: 70px;
+    display: inline-flex;
+    align-items: center;
+    vertical-align: top;
+    margin-left: 20px
+}
