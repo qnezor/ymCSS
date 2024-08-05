@@ -30,3 +30,12 @@
   flex: 1 1 auto;
   transition: padding .25s ease
 }
+
+.d-tabs {
+  padding: 0;
+  border-width: 0 0 1px;
+  border-style: solid;
+  -webkit-touch-callout: none;
+  display: flex;
+  justify-content: space-between;
+}
