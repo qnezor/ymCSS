@@ -1,7 +1,12 @@
 .head-kids__app {
   height: 70px;
-    display: inline-flex;
-    align-items: center;
-    vertical-align: top;
-    margin-left: 20px
+  display: none;
+  align-items: center;
+  vertical-align: top;
+  margin-left: 20px
+}
+
+.sidebar__placeholder.sidebar__sticky {
+  height: 100%;
+  display: none;
 }
