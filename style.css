@@ -10,3 +10,23 @@
   height: 100%;
   display: none;
 }
+
+.d-slider__items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  text-align: left;
+  justify-content: center;
+}
+
+.centerblock-wrapper {
+  overflow: visible;
+  position: relative;
+  padding: 0 0 65px;
+  width: 100%;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  transition: padding .25s ease
+}
